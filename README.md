@@ -1,6 +1,4 @@
-### Olá, 👋
+### Hi there 👋
 
-
-- Sou estudante de Engenharia de Materiais na Universidade Federal de São Carlos.  
-- Tenho interesse em programação e simulações computacionais.
+- I am a Materials Engineering student at the Federal University of São Carlos and I am very interested in computer programming and simulations.
 - LinkedIn: https://www.linkedin.com/in/pamela-borgess/
