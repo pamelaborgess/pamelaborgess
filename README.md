@@ -9,3 +9,5 @@ I'm a Materials Engineering student at the Federal University of São Carlos and
 
 <div>
   <a href="https://www.linkedin.com/in/p%C3%A2mela-borges-35044510a/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/pamelaborgess/pamelaborgess/blob/output/github-contribution-grid-snake.svg)
