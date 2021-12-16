@@ -3,8 +3,8 @@
 I'm a Materials Engineering student at the Federal University of São Carlos and I'm very interested in programming and computational simulations.
 
 <div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pamelaborgess&show_icons=true&theme=dracula&hide=contribs,prs">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaborgess&layout=compact&langs_count=16&theme=dracula">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pamelaborgess&show_icons=true&theme=synthwave&hide=contribs,prs">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaborgess&layout=compact&langs_count=16&theme=synthwave">
 </div>
 
 <div>
